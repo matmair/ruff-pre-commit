@@ -27,5 +27,5 @@
   language: python
   files: ^requirements\.(in|txt)$
   pass_filenames: false
-  additional_dependencies: ['uv==0.1.11']
+  additional_dependencies: ['uv==0.1.12']
   minimum_pre_commit_version: "2.9.2"
